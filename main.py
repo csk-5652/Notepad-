@@ -72,7 +72,7 @@ if __name__ =='__main__':
     # basic tkinter setup 
     root=Tk()
     root.title("Notepad")
-    # before uncommenting below line first you have to download .ico file then change name notes.ico to your img name
+    # before uncommenting below line first you have to download .ico img icon then change name notes.ico to your img name
     # root.wm_iconbitmap('notes.ico')
 
     
